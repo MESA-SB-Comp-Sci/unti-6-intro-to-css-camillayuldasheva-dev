@@ -43,7 +43,7 @@ How to target elements:
 syntax:
 
 element_name {
-    property: value;
+    property: value; 
 }
 
 
